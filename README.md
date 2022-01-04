@@ -17,6 +17,11 @@ Interface estilizada com UIkit, para fazer as alteraçoes dos estados foi utiliz
 Foi utilizado Context para compartilhar dados  “globais” para os componentes do React.
 
 
+
+
+
+
+
 # Task List Project
 
 ## Starting the project for the first time
